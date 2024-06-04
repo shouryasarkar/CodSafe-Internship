@@ -8,12 +8,14 @@ Welcome to my CodSoft internship repository. This repository contains several pr
 * Password-Generator
 * Rock Paper Scissors Game
 * Contact Book
+  
 
 # To-Do List
-# Description
+
+## Description
 The To-Do List project is a command-line application that allows users to manage their tasks efficiently. Users can add, delete, and view tasks, as well as mark tasks as completed.
 
-# Features
+### Features
 * Add tasks with descriptions.
 * View all tasks with their status (completed or pending).
 * Delete tasks by their ID.
