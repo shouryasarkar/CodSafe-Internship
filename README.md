@@ -34,7 +34,7 @@ The Calculator project is a simple command-line calculator that performs basic a
 * Handle division by zero gracefully.
 
 ### Usage
-* Run the __calculator.py__ script.
+* Run the __calc.py__ script.
 * Enter the operation you want to perform and the numbers involved.
 
 
@@ -47,7 +47,7 @@ The Password Generator project generates strong, random passwords based on user-
 * Include or exclude uppercase letters, lowercase letters, numbers, and special characters.
 
 ### Usage
-* Run the __password_generator.py__ script.
+* Run the __pass_gen.py__ script.
 * Enter the desired password length and choose the character types to include.
 
 
@@ -62,7 +62,7 @@ The Rock-Paper-Scissors Game project is a command-line game where the user can p
 
 
 ### Usage
-* Run the __rockpaperscissors.py__ script.
+* Run the __game.py__ script.
 * Enter your choice (rock, paper, or scissors) and see if you can beat the computer.
 
 
@@ -77,11 +77,13 @@ The Contact Book project is a command-line application to manage contacts. Users
 * Delete contacts by their ID.
 
 ### Usage
-* Run the __contact_book.py__ script.
+* Run the __main.py__ script.
 * Follow the on-screen instructions to manage your contacts.
 
 
-#### Clone the Repository
+
+
+# Clone the Repository
 ``` bash
   git clone https://github.com/yourusername/codsoft-internship.git
 ```
