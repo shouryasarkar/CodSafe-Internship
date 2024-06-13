@@ -85,5 +85,5 @@ The Contact Book project is a command-line application to manage contacts. Users
 
 # Clone the Repository
 ``` bash
-  git clone https://github.com/yourusername/codsoft-internship.git
+  git clone https://github.com/shouryasarkar/codsoft-internship.git
 ```
