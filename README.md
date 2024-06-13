@@ -21,3 +21,6 @@ The To-Do List project is a command-line application that allows users to manage
 * Delete tasks by their ID.
 * Mark tasks as completed.
 
+### Usage
+* Run the todo.py script.
+* Follow the on-screen instructions to manage your tasks.
