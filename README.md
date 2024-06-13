@@ -79,3 +79,9 @@ The Contact Book project is a command-line application to manage contacts. Users
 ### Usage
 * Run the __contact_book.py__ script.
 * Follow the on-screen instructions to manage your contacts.
+
+
+#### Clone the Repository
+``` bash
+  git clone https://github.com/yourusername/codsoft-internship.git
+```
